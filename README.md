@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Muito prazer, eu sou o Rodrigo! 👋
+ 
+- Designer de interfaces e acadêmico de Engenharia de Software, apaixonado por experiencia do usuário e códigos.
 <!--
 **RodrigoBerino/RodrigoBerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
