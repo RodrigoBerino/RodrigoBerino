@@ -1,6 +1,6 @@
 # Muito prazer, eu sou o Rodrigo! 👋
  
-- From Manaus - AM :brazil:
+- From Curitiba - PR :brazil:
 - Designer de interfaces e acadêmico de Engenharia de Software, apaixonado por experiência do usuário e códigos.
 
 #### Meus stats:
