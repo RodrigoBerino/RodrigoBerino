@@ -1,7 +1,7 @@
 # Muito prazer, eu sou o Rodrigo! 👋
  
 - From Curitiba - PR :brazil:
-- Designer de interfaces e acadêmico de Engenharia de Software, apaixonado por experiência do usuário e códigos.
+- Product Designer e acadêmico de Engenharia de Software.
 
 #### Meus stats:
 
