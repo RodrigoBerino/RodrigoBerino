@@ -1,7 +1,7 @@
 # Muito prazer, eu sou o Rodrigo! 👋
  
-- From Curitiba - PR :brazil:
-- Product Designer e acadêmico de Engenharia de Software.
+- From Brazil
+- Product Designer and Computer Science.
 
 #### Meus stats:
 
