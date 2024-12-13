@@ -1,7 +1,7 @@
 # Muito prazer, eu sou o Rodrigo! 👋
  
 - From Brazil
-- Product Designer and Computer Science.
+- Front-end design engineer and Computer Science.
 
 #### Meus stats:
 
